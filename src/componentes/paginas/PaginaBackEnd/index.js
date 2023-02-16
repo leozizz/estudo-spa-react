@@ -9,7 +9,7 @@ const PaginaBackEnd = () => (
       Node.js é uma tecnologia usada para executar código JavaScript fora do navegador. Com ele podemos construir aplicações web em geral, desde web sites até APIs e microsserviços.
     </p>
 
-    <a href="https://www.devmedia.com.br/node-js/"> Guia de Node.js</a>
+    <a href="https://nodejs.org/pt-br/docs/" target="_blank"> Guia de Node.js</a>
 
     <BotaoVoltar />
   </div>

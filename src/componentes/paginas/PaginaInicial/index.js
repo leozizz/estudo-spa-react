@@ -8,9 +8,13 @@ const PaginaInicial = () => (
 
         <div className="conteudo-opcoes">
             <Link className="opcao-front-end" to='/front-end'>Front-end</Link>
+
+            <a className="opcao-github" href="https://github.com/leozizz">
+                Leozziz - GitHub
+            </a>
+
             <Link className="opcao-back-end" to='/back-end'>Back-end</Link>
         </div>
-
     </div>
 )
 
